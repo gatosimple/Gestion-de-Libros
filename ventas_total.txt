@@ -1,0 +1,9 @@
+{'Numero_de_venta': 2006, 'Código_inventario': 45507, 'Producto': 'Impresora', 'Descripción': 'marron', 'Cantidad': 213, 'Precio_de_venta': 141.25, 'Total_venta': 30086.25}
+{'Numero_de_venta': 2001, 'Código_inventario': 70966, 'Producto': 'Laptop', 'Descripción': 'morado', 'Cantidad': 40, 'Precio_de_venta': 455.0, 'Total_venta': 18200.0}
+{'Numero_de_venta': 2007, 'Código_inventario': 86492, 'Producto': 'Impresora', 'Descripción': 'Azul', 'Cantidad': 102, 'Precio_de_venta': 126.25, 'Total_venta': 12877.5}
+{'Numero_de_venta': 2002, 'Código_inventario': 44324, 'Producto': 'Laptop', 'Descripción': 'azul', 'Cantidad': 20, 'Precio_de_venta': 540.0, 'Total_venta': 10800.0}
+{'Numero_de_venta': 2004, 'Código_inventario': 57512, 'Producto': 'Desktop', 'Descripción': 'negro', 'Cantidad': 30, 'Precio_de_venta': 300.0, 'Total_venta': 9000.0}
+{'Numero_de_venta': 2000, 'Código_inventario': 33306, 'Producto': 'Laptop', 'Descripción': 'verde', 'Cantidad': 10, 'Precio_de_venta': 510.0, 'Total_venta': 5100.0}
+{'Numero_de_venta': 2005, 'Código_inventario': 59766, 'Producto': 'Desktop', 'Descripción': 'mostaza', 'Cantidad': 15, 'Precio_de_venta': 311.25, 'Total_venta': 4668.75}
+{'Numero_de_venta': 2003, 'Código_inventario': 68236, 'Producto': 'Desktop', 'Descripción': 'naranja', 'Cantidad': 13, 'Precio_de_venta': 247.5, 'Total_venta': 3217.5}
+{'Numero_de_venta': 2008, 'Código_inventario': 76153, 'Producto': 'Impresora', 'Descripción': 'rosado', 'Cantidad': 7, 'Precio_de_venta': 128.75, 'Total_venta': 901.25}

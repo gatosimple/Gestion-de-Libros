@@ -1,0 +1,3 @@
+{'Numero_de_venta': 2006, 'Código_inventario': 45507, 'Producto': 'Impresora', 'Descripción': 'marron', 'Cantidad': 213, 'Precio_de_venta': 141.25, 'Total_venta': 30086.25}
+{'Numero_de_venta': 2007, 'Código_inventario': 86492, 'Producto': 'Impresora', 'Descripción': 'Azul', 'Cantidad': 102, 'Precio_de_venta': 126.25, 'Total_venta': 12877.5}
+{'Numero_de_venta': 2008, 'Código_inventario': 76153, 'Producto': 'Impresora', 'Descripción': 'rosado', 'Cantidad': 7, 'Precio_de_venta': 128.75, 'Total_venta': 901.25}

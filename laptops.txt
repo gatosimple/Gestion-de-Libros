@@ -1,0 +1,5 @@
+{'Código_inventario': 44324, 'Producto': 'Laptop', 'Descripción': 'azul', 'Estado': 'Importado', 'Costo_almacenamiento': 432.0, 'Costo_funda': 96.0}
+{'Código_inventario': 33306, 'Producto': 'Laptop', 'Descripción': 'verde', 'Estado': 'No importado', 'Costo_almacenamiento': 408.0, 'Costo_funda': 106.0}
+{'Código_inventario': 70966, 'Producto': 'Laptop', 'Descripción': 'morado', 'Estado': 'Importado', 'Costo_almacenamiento': 364.0, 'Costo_funda': 117.0}
+{'Código_inventario': 53193, 'Producto': 'Laptop', 'Descripción': 'spais', 'Estado': 'Importado', 'Costo_almacenamiento': 406.0, 'Costo_funda': 118.0}
+{'Código_inventario': 69328, 'Producto': 'Laptop', 'Descripción': 'azul', 'Estado': 'Importado', 'Costo_almacenamiento': 258.0, 'Costo_funda': 107.0}

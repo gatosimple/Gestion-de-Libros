@@ -1,0 +1,3 @@
+{'Numero_de_venta': 2001, 'Código_inventario': 70966, 'Producto': 'Laptop', 'Descripción': 'morado', 'Cantidad': 40, 'Precio_de_venta': 455.0, 'Total_venta': 18200.0}
+{'Numero_de_venta': 2002, 'Código_inventario': 44324, 'Producto': 'Laptop', 'Descripción': 'azul', 'Cantidad': 20, 'Precio_de_venta': 540.0, 'Total_venta': 10800.0}
+{'Numero_de_venta': 2000, 'Código_inventario': 33306, 'Producto': 'Laptop', 'Descripción': 'verde', 'Cantidad': 10, 'Precio_de_venta': 510.0, 'Total_venta': 5100.0}

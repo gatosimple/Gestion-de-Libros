@@ -1,0 +1,3 @@
+{'Código_inventario': 59766, 'Producto': 'Desktop', 'Descripción': 'mostaza', 'Estado': 'Importado', 'Costo_almacenamiento': 249.0, 'Costo_funda': 200.0}
+{'Código_inventario': 68236, 'Producto': 'Desktop', 'Descripción': 'naranja', 'Estado': 'No importado', 'Costo_almacenamiento': 198.0, 'Costo_funda': 153.0}
+{'Código_inventario': 57512, 'Producto': 'Desktop', 'Descripción': 'negro', 'Estado': 'Importado', 'Costo_almacenamiento': 240.0, 'Costo_funda': 176.0}
